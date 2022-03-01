@@ -31,12 +31,3 @@ To use this role in your own playbook, refer the following example:
     - hosts: localhost
       roles: 
      - role: "aws-ec2"
-License
--------
-
-The Project is released under the terms of the MIT License.
-
-Author Information
-------------------
-
-If you have any queries regarding the project, you can join and ask queries in our [discord server]().
