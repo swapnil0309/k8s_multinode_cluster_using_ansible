@@ -9,7 +9,7 @@
           Country: IN
           Name: K8s_Master
           Env: development
-          Author: Yadvi_Bhalla
+          Author: Swapnil_Sukare
       region: "{{ region_name }}"
       group_id: "{{ security_grp_id }}"
       vpc_subnet_id: "{{ subnet_id }}"
@@ -27,7 +27,7 @@
           Country: IN
           Name: K8s_Worker
           Env: development
-          Author: Yadvi_Bhalla
+          Author: Swapnil_Sukare
       region: "{{ region_name }}"
       group_id: "{{ security_grp_id }}"
       vpc_subnet_id: "{{ subnet_id }}"
